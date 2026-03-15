@@ -11,6 +11,6 @@ I use this GitHub account primarily as a read-only public mirror. If you are a c
 * **Embedded Firmware:** Programming Teensy 4.0 and STM32 microcontrollers using Rust and C++.
 * **Infrastructure:** Maintaining a Zero-Trust self-hosted server environment using Docker and Cloudflare Tunnels.
 
-### 📫 Contact
+### Contact
 * **Email:** 6810110042@psu.ac.th, jirakorn.sukmee@gmail.com
 * **Portfolio:** [jirakornsukmee.com](https://jirakornsukmee.com)

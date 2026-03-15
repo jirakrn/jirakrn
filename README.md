@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jirakorn Sukmee
 
-<!--
-**jirakrn/jirakrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student specializing in embedded systems, robotics.
 
-Here are some ideas to get you started:
+### Where My Code Lives
+The majority of my active development and proprietary source code is securely self-hosted on my private Forgejo instance:
+* **[git.jirakornsukmee.com](https://git.jirakornsukmee.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this GitHub account primarily as a read-only public mirror. If you are a collaborator or recruiter looking to review my private repositories, please reach out directly for temporary access credentials.
+
+### Current Focus
+* **Robotics:** Developing GLaDOS-M, a shape-shifting hexapod robot powered by a custom Rust kinematics engine and simulated in MuJoCo.
+* **Embedded Firmware:** Programming Teensy 4.0 and STM32 microcontrollers using Rust and C++.
+* **Infrastructure:** Maintaining a Zero-Trust self-hosted server environment using Docker and Cloudflare Tunnels.
+
+### 📫 Contact
+* **Email:** 6810110042@psu.ac.th, jirakorn.sukmee@gmail.com
+* **Portfolio:** [jirakornsukmee.com](https://jirakornsukmee.com)

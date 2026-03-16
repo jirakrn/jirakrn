@@ -2,7 +2,7 @@ Computer Engineering student specializing in embedded systems, robotics.
 
 ### Where My Code Lives
 The majority of my active development and proprietary source code is securely self-hosted on my private Forgejo instance:
-* **[git.jirakornsukmee.com](https://git.jirakornsukmee.com/jirakrn)**
+* **[git.jirakornsukmee.com](https://git.jirakornsukmee.com/jirakrn?token=2az016Wj45P0Z5nlzbAC)**
 
 I use this GitHub account primarily as a read-only public mirror. If you are a collaborator or recruiter looking to review my private repositories, please reach out directly for temporary access credentials.
 
